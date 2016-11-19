@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/josue549/react-skeleton/issues"
   },
-  "homepage": "https://github.com/josue549/react-skeleton#readme"
+  "homepage": "https://github.com/josue549/react-skeleton#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.16.0",
+    "babelify": "^7.3.0",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "watchify": "^3.7.0"
+  }
 }
